@@ -11,7 +11,7 @@ This is the backend API for a mobile + web application designed for ERP--Small
 ---
 
 ## 📁 Folder Structure
-
+```bash
 src/
 ├── config/ # DB config and setup
 ├── controllers/ # Route handler logic
@@ -21,6 +21,7 @@ src/
 └── server.js # Entry point
 knexfile.js
 .env
+```
 
 ## Get started
 
